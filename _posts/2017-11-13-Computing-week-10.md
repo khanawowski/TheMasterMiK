@@ -1,8 +1,8 @@
 ---
 title: Computing week 10
-layout: post
+layout: Post
 author: masrur.khan
-permalink: /computing-week-10/
+permalink: https://docs.google.com/document/d/1ADU_wefrtr2yo86LQWYN-90ms8Ohmpshnu0cjXFnuPI/edit
 source-id: 1ADU_wefrtr2yo86LQWYN-90ms8Ohmpshnu0cjXFnuPI
 published: true
 ---
