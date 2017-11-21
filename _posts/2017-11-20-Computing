@@ -80,15 +80,15 @@ published: true
 
 PACMAN 
 
-VARIABLES
+VARIABLES:
 
 READY! GAME OVER!
 
-      
+sprites: ghosts       
 
 TETRO CLASSIC
 
 SPRITES    COLOURFUL BLOCKS SHAPES
 
- 
+ variables: score ; start ; game over
 
