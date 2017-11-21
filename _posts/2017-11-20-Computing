@@ -80,16 +80,19 @@ published: true
 
 PACMAN 
 
-VARIABLES:
+VARIABLES
 
 READY! GAME OVER!
 
-sprites: ghosts       
+                                                                                                            
 
 TETRO CLASSIC
 
-SPRITES    COLOURFUL BLOCKS SHAPES
+SPRITES    COLOURFUL BLOCKS SHAPES                                                     
 
- variables: score ; start ; game over
-FLAPPY BIRD ---
-VARIABLES GET READY  GAME OVER     SPRITES    A FLYING BIRD COLOUR YELLOW.
+VARIABLES     GET READY     GAME OVER
+
+SPRITES           A FLYING BIRD YELLOW
+
+ 
+
